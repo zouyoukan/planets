@@ -1,2 +1,3 @@
 Welcome to Mars!
-Now I'm using Git
+
+Now I'm using Git and GitHub!
